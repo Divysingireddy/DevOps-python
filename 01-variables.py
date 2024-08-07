@@ -25,3 +25,19 @@ e = "My Husband's name is Srikanth Reddy"
 f = """This is a multi-line string"""
 d = 'Today\'s weather is very nice'
 print(d)
+
+# Define a list
+test_list = ["hello", "world", "python"]
+print(test_list)
+
+# Tuple
+test_tuple = ("hello", "world", "python")
+print(test_tuple)
+
+# Dictionary
+test_dict = {'a' : 1, 'b' : 2}
+print(test_dict)
+
+# Set
+test_set = {'a', 'b', "abc"}
+print(test_set)
