@@ -13,6 +13,7 @@ print ("this is my python code")
 
 # Float value
 b = 42.345
+print(b)
 
 # Boolean value
 c = True
