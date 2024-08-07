@@ -9,3 +9,4 @@ a = 42
 
 # Print the value that is stored inside a variable 
 print(a)
+print ("this is my python code")
