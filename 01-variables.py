@@ -48,4 +48,8 @@ b = 12.56
 c = a + b
 print(c)
 
+#Subtraction
+d = a - b
+print(d)
+
 
