@@ -19,9 +19,7 @@ c = True
 
 # Strings
 d = 'Divya Reddy'
-e = "My Husband's name is Srikanth Reddy"
-f = """
- This is a multi-line string
-"""
-
 print(d)
+e = "My Husband's name is Srikanth Reddy"
+f = """This is a multi-line string"""
+print(f)
