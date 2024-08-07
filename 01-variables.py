@@ -52,4 +52,8 @@ print(c)
 d = a - b
 print(d)
 
+# Multiplication
+e = a * b
+print(e)
+
 
