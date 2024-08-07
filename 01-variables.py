@@ -41,3 +41,11 @@ print(test_dict)
 # Set
 test_set = {'a', 'b', "abc"}
 print(test_set)
+
+#Add
+a = 42
+b = 12.56
+c = a + b
+print(c)
+
+
