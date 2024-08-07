@@ -56,4 +56,8 @@ print(d)
 e = a * b
 print(e)
 
+# Division
+f = a / b
+print(f)
+
 
